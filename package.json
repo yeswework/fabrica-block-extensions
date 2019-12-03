@@ -1,0 +1,19 @@
+{
+  "name": "fabrica-block-extensions",
+  "version": "0.0.1",
+  "description": "Ultra-lightweight WordPress API allowing themes (or plugins) to pass additional options into compatible Blocks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yeswework/fabrica-block-extensions.git"
+  },
+  "author": "Yes we work",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yeswework/fabrica-block-extensions/issues"
+  },
+  "homepage": "https://github.com/yeswework/fabrica-block-extensions#readme"
+}
